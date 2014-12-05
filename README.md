@@ -1,4 +1,4 @@
-scotchionbox
-============
+Scotch Box + ionCubeLoader
+==========
 
-scotchbox + ioncubeloader
+Based on [Scotch Box ♥ A Vagrant LAMP Stack That Just Works](http://box.scotch.io/)
